@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">Logaprasath Elangovan logo</title>
+  <desc id="desc">Stylish LE monogram with a professional leaf and gold accent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="30" y1="18" x2="190" y2="202" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e6849"/>
+      <stop offset="1" stop-color="#10251a"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="58" y1="46" x2="166" y2="172" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f1d38a"/>
+      <stop offset="1" stop-color="#b68a3a"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="184" height="184" rx="38" fill="url(#bg)"/>
+  <path d="M56 154V62h22v72h38v20H56Z" fill="#fffdf7"/>
+  <path d="M125 154V62h61v20h-39v15h34v19h-34v18h41v20h-63Z" fill="#fffdf7"/>
+  <path d="M73 172c38-4 67-23 84-58 3-6 12-5 13 2 4 32-18 58-49 62-18 2-34 0-48-6Z" fill="url(#gold)" opacity=".95"/>
+  <path d="M93 166c24-8 43-23 58-47" fill="none" stroke="#10251a" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+  <circle cx="173" cy="52" r="9" fill="url(#gold)"/>
+</svg>
